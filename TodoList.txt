@@ -1,0 +1,21 @@
+Home a organiser
+
+POUR TOUTES les PaGES
+
+- Modifier les head 
+- MOdifier Banniere de chaque page 
+
+
+pour contact
+- Modifier le fichier (traduire) js/Contact.js pour afficher les erreur en français
+
+
+
+
+pour events.html
+- refaire les photos des derniers events
+- Ajouter un lien veers les articles correspondant à chaque evenement
+- ecrire les articles
+
+pour services :
+- logo des services

@@ -1,0 +1,8 @@
+	
+
+v	- instanciation des events dans un dossier /events
+
+v	- changement des icones de la page services.html
+
+v	- modification du bouton contactez nous / intégration du logo inwi dans la page about-us.html
+
